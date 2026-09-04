@@ -6,6 +6,8 @@ public class Biodata {
         String asal_daerah = "Sumatera Selatan";
         String alasan_memilih_prodi = "Saya memeilih Teknik Informatika karena saya berminat dengan dunai teknologi yang semakin berkambang";
         String target_semester = "Mendapatkan ipk yang lebih tinggi";
+        String hobi = "Hiking";
+
         System.out.println("Nama : " + nama);
         System.out.println("NIM  : " + nim);
     }
